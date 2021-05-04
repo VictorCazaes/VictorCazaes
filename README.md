@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VictorCazaes&show_icons=true" alt="VictorCazaes"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=VictorCazaes&show_icons=true&theme=nord" alt="VictorCazaes"/> 
 </p>
 
