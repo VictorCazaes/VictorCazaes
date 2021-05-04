@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCazaes&layout=compact" alt="top-langs"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCazaes&layout=compact&theme=dark" alt="top-langs"/> 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VictorCazaes&show_icons=true" alt="VictorCazaes"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=VictorCazaes&show_icons=true&theme=dark" alt="VictorCazaes"/> 
 </p>
 
